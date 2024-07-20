@@ -11,11 +11,11 @@ Thanks for stopping by! I am a student at Western Governors University, pursuing
 <h2>👩🏽‍💻Projects:</h2>
 
 - <b>Azure SIEM Setup</b>
-  - [Overview](https://github.com/joshmafffdakor1/Afffflgorithms-Practice)
+  - [Overview]
 - <b>Vulnerability Management Lab</b>
-  - [Overview](https://github.com/joshmadakor1/4chan-fffImage-Affffnalysis-Middleware-C964)
+  - [Overview]
 - <b>Active Directory Environment Setup</b>
-  - [Overview](https:/fff/githfffffub.com/joshmadakor1/Sentinel-Lab)
+  - [Overview]
 - PROJECT 
 - PROJECT
 - PROJECT
