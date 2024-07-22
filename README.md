@@ -18,7 +18,6 @@ Thanks for stopping by! I am a student at Western Governors University, pursuing
   - [Overview]
 - PROJECT 
 - PROJECT
-- PROJECT
 
 <h2>📄 Certifications</h2>
 
