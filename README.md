@@ -1,11 +1,11 @@
-<h1>🌷Hi, I'm Desiree🌷</h1>
+<h1>Hi, I'm Desiree</h1>
 
 
 Thanks for stopping by! I am a student at Western Governors University, pursuing a BS in Cybersecurity & Information Assurance. I thrive on continuous learning and value feedback and diverse perspectives. 
 
 💻 I have built a home lab for personal projects. I have earned various certifications through both my coursework and personal initiatives, with a clear roadmap to achieve more. Below is a glimpse of some completed work and a list of projects I plan to complete as well.
 
-<b>📍My goal is to become a Cybersecurity/Digital Transformation Consultant, specializing in system engineering. I am passionate about applying my knowledge to protect digital assets and drive technological integration.</b>
+<b>📍My Goal: To continually expand my knowledge, refine my skills, and contribute meaningfully to the cybersecurity field by solving complex challenges and driving impactful solutions.</b>
 
 
 <h2>👩🏽‍💻Projects:</h2>
