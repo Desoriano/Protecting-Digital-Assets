@@ -3,7 +3,7 @@
 
 Welcome to my Portfolio! I am a student pursuing a BS in Cybersecurity & Information Assurance.I alreayd hold a BA in Psychology. I thrive on continuous learning and value feedback and diverse perspectives. 
 
-💻 I have built a home lab for personal projects. I have earned various certifications through both my coursework and personal initiatives, with a clear roadmap to achieve more. Below is a glimpse of some completed work and a list of projects I plan to complete as well.
+💻 I have built a home lab for personal projects. I have earned various certifications through both my coursework and personal initiatives, with a clear roadmap to achieve more. Below is a glimpse of some completed work, along with a list of projects and certifications I plan to complete. Some of these will be obtained through my coursework, while others will be pursued in my personal time through hands-on projects in my home lab.
 
 <b>📍My Goal:</b> To continually expand my knowledge, refine my skills, and contribute meaningfully to the cybersecurity field by solving complex challenges and driving impactful solutions.
 
@@ -16,8 +16,6 @@ Welcome to my Portfolio! I am a student pursuing a BS in Cybersecurity & Informa
   - [Overview]
 - <b>Active Directory Environment Setup</b>
   - [Overview]
-- PROJECT 
-- PROJECT
 
 <h2>📄 Certifications</h2>
 
