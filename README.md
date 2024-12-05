@@ -1,11 +1,11 @@
-<h1>Hi, I'm Desiree</h1>
+<h1>Hi, I'm Desiree🌷</h1>
 
 
 Welcome to my Portfolio! I am a student pursuing a BS in Cybersecurity & Information Assurance.I alreayd hold a BA in Psychology. I thrive on continuous learning and value feedback and diverse perspectives. 
 
 💻 I've built a home lab for personal projects and earned certifications through both coursework and independent initiatives. Below is a glimpse of completed work, along with upcoming projects and certifications.
 
-<b>📍My Goal:</b> To continually expand my knowledge, refine my skills, and contribute meaningfully to the cybersecurity field by solving complex challenges and driving impactful solutions.
+<b>My Goal:</b> To continually expand my knowledge, refine my skills, and contribute meaningfully to the cybersecurity field by solving complex challenges and driving impactful solutions.
 
 
 <h2>👩🏽‍💻Projects: In Progress</h2>
