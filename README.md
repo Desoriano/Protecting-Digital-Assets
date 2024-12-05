@@ -1,14 +1,14 @@
 <h1>Hi, I'm Desiree</h1>
 
 
-Thanks for stopping by! I am a student at Western Governors University, pursuing a BS in Cybersecurity & Information Assurance. I thrive on continuous learning and value feedback and diverse perspectives. 
+Welcome to my Portfolio! I am a student pursuing a BS in Cybersecurity & Information Assurance.I alreayd hold a BA in Psychology. I thrive on continuous learning and value feedback and diverse perspectives. 
 
 💻 I have built a home lab for personal projects. I have earned various certifications through both my coursework and personal initiatives, with a clear roadmap to achieve more. Below is a glimpse of some completed work and a list of projects I plan to complete as well.
 
 <b>📍My Goal:</b> To continually expand my knowledge, refine my skills, and contribute meaningfully to the cybersecurity field by solving complex challenges and driving impactful solutions.
 
 
-<h2>👩🏽‍💻Projects:</h2>
+<h2>👩🏽‍💻Projects: In Progress</h2>
 
 - <b>Azure SIEM Setup</b>
   - [Overview]
