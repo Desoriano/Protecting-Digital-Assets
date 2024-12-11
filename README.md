@@ -47,6 +47,6 @@ Welcome to my Portfolio! I am a student pursuing a BS in Cybersecurity and Infor
 <h2>Practical Hands-on Experience</h2>
 
 - Try Hack Me
-    - [All Certificates of Completion](Ongoing)
+    - [All Certificates of Completion]()
 - SheCodes <b>(Coding Bootcamp)</b>
     - [Front-End Development Workshop](https://www.shecodes.io/certificates/b8407f7861079d95a6ba52e6ffe15e3e)
