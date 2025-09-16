@@ -1,14 +1,13 @@
 <h1>Hi, I'm Desiree🌷</h1>
 
 
-Welcome to my Portfolio! I am a student pursuing a BS in Cybersecurity and Information Assurance. I already hold a BA in Psychology. I thrive on continuous learning and value feedback and diverse perspectives. 
+Welcome to my Portfolio! I am a student pursuing a BS in Cybersecurity and Information Assurance. I already hold a BA in Psychology.
 
 💻 I've built a home lab for personal projects and earned certifications through both coursework and independent initiatives. Below is a glimpse of completed work, along with upcoming projects and certifications.
 
 <b>My Goal:</b> To continually expand my knowledge, refine my skills, and contribute meaningfully to cybersecurity by solving complex challenges and driving impactful solutions.
 
-
-<h2>👩🏽‍💻Projects: In Progress</h2>
+<h2>👩🏽‍💻Home Labs/ Projects: Ongoing</h2>
 
 - <b>Azure SIEM Setup</b>
   - [Overview]
@@ -33,6 +32,9 @@ Welcome to my Portfolio! I am a student pursuing a BS in Cybersecurity and Infor
     - CompTIA Security+
     - CompTIA CySA+
     - CompTIA PenTest+
+      
+<h2>Technical Skills</h2>
+
 
 <h2>📝Analysis Reports / Case Studies</h2>
 
@@ -44,7 +46,7 @@ Welcome to my Portfolio! I am a student pursuing a BS in Cybersecurity and Infor
   - Proposed preventive measures and a BYOD policy solution, supported by research and industry regulations, to enhance security in a small business wireless and mobile environment.
 
 
-<h2>Practical Hands-on Experience</h2>
+<h2>Additional</h2>
 
 - Try Hack Me
     - [All Certificates of Completion]()
